@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "angular@12.2.16",
+      "destination": "ClientApp/angular/"
+    }
+  ]
+}
