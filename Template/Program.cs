@@ -1,7 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using Template.Data.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddRazorPages();
+var connectionString = builder.Configuration.GetConnectionString("TemplateDb");
+builder.Services.AddDbContext<TemplateContext>(x => x.UseSqlServer(connectionString).EnableSensitiveDataLogging());
 
 var app = builder.Build();
 
@@ -19,7 +23,5 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
-app.MapRazorPages();
 
 app.Run();

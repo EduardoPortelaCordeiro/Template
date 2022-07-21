@@ -1,0 +1,12 @@
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\bin\Debug\net6.0\Template.CrosscCutting.deps.json
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\bin\Debug\net6.0\Template.CrosscCutting.dll
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\bin\Debug\net6.0\Template.CrosscCutting.pdb
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.csproj.AssemblyReference.cache
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.AssemblyInfoInputs.cache
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.AssemblyInfo.cs
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.csproj.CoreCompileInputs.cache
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.dll
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\refint\Template.CrosscCutting.dll
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.pdb
+C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\ref\Template.CrosscCutting.dll
