@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Template.Data.Migrations
 {
-    public partial class creatingusers : Migration
+    public partial class Usertable : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -21,6 +21,11 @@ namespace Template.Data.Migrations
                 {
                     table.PrimaryKey("PK_Users", x => x.Id);
                 });
+
+            migrationBuilder.InsertData(
+                table: "Users",
+                columns: new[] { "Id", "Email", "Name" },
+                values: new object[] { new Guid("3b0e25f4-4935-4a73-ad07-74f836843489"), "userdefault@template.com", "UserDefault" });
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

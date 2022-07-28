@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduna\\OneDrive\\Documentos\\CURSOS\\Template\\Template.CrosscCutting\\Template.CrosscCutting.csproj": {}
+    "C:\\temps\\template em aspnet\\Template\\Template.CrosscCutting\\Template.CrosscCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduna\\OneDrive\\Documentos\\CURSOS\\Template\\Template.CrosscCutting\\Template.CrosscCutting.csproj": {
+    "C:\\temps\\template em aspnet\\Template\\Template.CrosscCutting\\Template.CrosscCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduna\\OneDrive\\Documentos\\CURSOS\\Template\\Template.CrosscCutting\\Template.CrosscCutting.csproj",
+        "projectUniqueName": "C:\\temps\\template em aspnet\\Template\\Template.CrosscCutting\\Template.CrosscCutting.csproj",
         "projectName": "Template.CrosscCutting",
-        "projectPath": "C:\\Users\\eduna\\OneDrive\\Documentos\\CURSOS\\Template\\Template.CrosscCutting\\Template.CrosscCutting.csproj",
+        "projectPath": "C:\\temps\\template em aspnet\\Template\\Template.CrosscCutting\\Template.CrosscCutting.csproj",
         "packagesPath": "C:\\Users\\eduna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduna\\OneDrive\\Documentos\\CURSOS\\Template\\Template.CrosscCutting\\obj\\",
+        "outputPath": "C:\\temps\\template em aspnet\\Template\\Template.CrosscCutting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\eduna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

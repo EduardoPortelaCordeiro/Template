@@ -10,3 +10,15 @@ C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\De
 C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\refint\Template.CrosscCutting.dll
 C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.pdb
 C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.CrosscCutting\obj\Debug\net6.0\ref\Template.CrosscCutting.dll
+C:\temps\template em aspnet\Template\Template.CrosscCutting\bin\Debug\net6.0\Template.CrosscCutting.deps.json
+C:\temps\template em aspnet\Template\Template.CrosscCutting\bin\Debug\net6.0\Template.CrosscCutting.dll
+C:\temps\template em aspnet\Template\Template.CrosscCutting\bin\Debug\net6.0\Template.CrosscCutting.pdb
+C:\temps\template em aspnet\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.csproj.AssemblyReference.cache
+C:\temps\template em aspnet\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\temps\template em aspnet\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.AssemblyInfoInputs.cache
+C:\temps\template em aspnet\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.AssemblyInfo.cs
+C:\temps\template em aspnet\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.csproj.CoreCompileInputs.cache
+C:\temps\template em aspnet\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.dll
+C:\temps\template em aspnet\Template\Template.CrosscCutting\obj\Debug\net6.0\refint\Template.CrosscCutting.dll
+C:\temps\template em aspnet\Template\Template.CrosscCutting\obj\Debug\net6.0\Template.CrosscCutting.pdb
+C:\temps\template em aspnet\Template\Template.CrosscCutting\obj\Debug\net6.0\ref\Template.CrosscCutting.dll

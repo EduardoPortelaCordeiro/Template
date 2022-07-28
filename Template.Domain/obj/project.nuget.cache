@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dK0uu6+/c2QEFTZyM35T4mv/gHdPYG/WqO1cwaCzTLX+IOkRawoqfXP8mkYgmvT6mZ3nV3ibMgS7R0BY93bVug==",
+  "dgSpecHash": "HAalmZPzqiTbin7o/T49td/LO/pZVgKKL3n/cKeNJ4Jyr0XgFimmBl3wNwTGjUNPioOWfKg8ynJomGbC0fI4mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eduna\\OneDrive\\Documentos\\CURSOS\\Template\\Template.Domain\\Template.Domain.csproj",
+  "projectFilePath": "C:\\temps\\template em aspnet\\Template\\Template.Domain\\Template.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,3 +10,15 @@ C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.Application\obj\Debu
 C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.Application\obj\Debug\net6.0\refint\Template.Application.dll
 C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.Application\obj\Debug\net6.0\Template.Application.pdb
 C:\Users\eduna\OneDrive\Documentos\CURSOS\Template\Template.Application\obj\Debug\net6.0\ref\Template.Application.dll
+C:\temps\template em aspnet\Template\Template.Application\bin\Debug\net6.0\Template.Application.deps.json
+C:\temps\template em aspnet\Template\Template.Application\bin\Debug\net6.0\Template.Application.dll
+C:\temps\template em aspnet\Template\Template.Application\bin\Debug\net6.0\Template.Application.pdb
+C:\temps\template em aspnet\Template\Template.Application\obj\Debug\net6.0\Template.Application.csproj.AssemblyReference.cache
+C:\temps\template em aspnet\Template\Template.Application\obj\Debug\net6.0\Template.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\temps\template em aspnet\Template\Template.Application\obj\Debug\net6.0\Template.Application.AssemblyInfoInputs.cache
+C:\temps\template em aspnet\Template\Template.Application\obj\Debug\net6.0\Template.Application.AssemblyInfo.cs
+C:\temps\template em aspnet\Template\Template.Application\obj\Debug\net6.0\Template.Application.csproj.CoreCompileInputs.cache
+C:\temps\template em aspnet\Template\Template.Application\obj\Debug\net6.0\Template.Application.dll
+C:\temps\template em aspnet\Template\Template.Application\obj\Debug\net6.0\refint\Template.Application.dll
+C:\temps\template em aspnet\Template\Template.Application\obj\Debug\net6.0\Template.Application.pdb
+C:\temps\template em aspnet\Template\Template.Application\obj\Debug\net6.0\ref\Template.Application.dll

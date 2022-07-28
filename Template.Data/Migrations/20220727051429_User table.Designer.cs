@@ -12,8 +12,8 @@ using Template.Data.Context;
 namespace Template.Data.Migrations
 {
     [DbContext(typeof(TemplateContext))]
-    [Migration("20220721194427_inserting new default user")]
-    partial class insertingnewdefaultuser
+    [Migration("20220727051429_User table")]
+    partial class Usertable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

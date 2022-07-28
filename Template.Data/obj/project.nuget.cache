@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PShWk/6ydmxdImymswT+0+aqCMDBuEixb1dz0klBxIWgt6TBGXU+exNPEqo7d+7t3nisCE93eCdQDNBv0ebSqQ==",
+  "dgSpecHash": "C3xPtwyDtDZjd77XfP3/1gmVaqjMtIYuznO4GFkPpTYiBKK9Mrs9k6zlRsw44eWhedhL0Mb2b7r93sRfrzyCQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eduna\\OneDrive\\Documentos\\CURSOS\\Template\\Template.Data\\Template.Data.csproj",
+  "projectFilePath": "C:\\temps\\template em aspnet\\Template\\Template.Data\\Template.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduna\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\eduna\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
